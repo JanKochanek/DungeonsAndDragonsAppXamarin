@@ -1,0 +1,6 @@
+C:\Users\Administrator.A211-09\source\repos\DungeonsAndDragonsApp\DungeonsAndDragonsApp\DungeonsAndDragonsApp\obj\Debug\netstandard2.0\DungeonsAndDragonsApp.csprojAssemblyReference.cache
+C:\Users\Administrator.A211-09\source\repos\DungeonsAndDragonsApp\DungeonsAndDragonsApp\DungeonsAndDragonsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator.A211-09\source\repos\DungeonsAndDragonsApp\DungeonsAndDragonsApp\DungeonsAndDragonsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrator.A211-09\source\repos\DungeonsAndDragonsApp\DungeonsAndDragonsApp\DungeonsAndDragonsApp\obj\Debug\netstandard2.0\DungeonsAndDragonsApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.A211-09\source\repos\DungeonsAndDragonsApp\DungeonsAndDragonsApp\DungeonsAndDragonsApp\obj\Debug\netstandard2.0\DungeonsAndDragonsApp.AssemblyInfoInputs.cache
+C:\Users\Administrator.A211-09\source\repos\DungeonsAndDragonsApp\DungeonsAndDragonsApp\DungeonsAndDragonsApp\obj\Debug\netstandard2.0\DungeonsAndDragonsApp.AssemblyInfo.cs
